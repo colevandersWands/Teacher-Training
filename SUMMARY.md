@@ -15,3 +15,8 @@
 * [Empathy](content/empathy.md)
 * [Motivation & Demotivation](content/motivation-and-demotivation.md)
 
+## Role Training
+
+* [Homework Mentor Training](role-training/homework-mentor-training.md)
+* [Education Buddy Training](role-training/education-buddy-training.md)
+
